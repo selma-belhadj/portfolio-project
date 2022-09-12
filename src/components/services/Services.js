@@ -2,7 +2,7 @@ import React from 'react';
 import './services.css';
 
 const Services = () => (
-  <div>Services</div>
+  <section id="services">Services</section>
 );
 
 export default Services;
