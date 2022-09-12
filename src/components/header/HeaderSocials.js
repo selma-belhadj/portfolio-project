@@ -4,7 +4,7 @@ import { BsLinkedin } from 'react-icons/bs';
 import { FaGithub, FaAngellist } from 'react-icons/fa';
 
 const HeaderSocials = () => (
-  <div className="header_socials">
+  <div className="header__socials">
     <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><BsLinkedin /></a>
     <a href="https://www.github.com/" target="_blank" rel="noreferrer">
       <FaGithub />
