@@ -50,6 +50,7 @@ header {
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
+    
 }
 
 /* ============ Scroll Down ================*/
@@ -66,7 +67,7 @@ header {
 /* ================= MEDIA QUERIES (MEDIUM DEVICES) ===================*/
 
 @media screen and (max-width: 1024px) {
-    header {
+    .header {
         height: 68vh;
     }
 }
@@ -74,7 +75,7 @@ header {
 /* ================= MEDIA QUERIES (SMALL DEVICES) ===================*/
 
 @media screen and (max-width: 600px) {
-    header {
+    .header {
         height: 100vh;
     }
 
