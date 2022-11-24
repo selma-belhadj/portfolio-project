@@ -1,6 +1,6 @@
 import React from 'react';
 import './services.css';
-import { BiCheck } from 'react-icons/bi';
+import { GiCheckMark } from 'react-icons/gi';
 
 const Services = () => (
   <section id="services">
@@ -13,27 +13,27 @@ const Services = () => (
         </div>
         <ul className="service__list">
           <li>
-            <BiCheck className="service__list-icon" />
+            <GiCheckMark className="service__list-icon" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </li>
           <li>
-            <BiCheck className="service__list-icon" />
+            <GiCheckMark className="service__list-icon" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </li>
           <li>
-            <BiCheck className="service__list-icon" />
+            <GiCheckMark className="service__list-icon" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </li>
           <li>
-            <BiCheck className="service__list-icon" />
+            <GiCheckMark className="service__list-icon" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </li>
           <li>
-            <BiCheck className="service__list-icon" />
+            <GiCheckMark className="service__list-icon" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </li>
           <li>
-            <BiCheck className="service__list-icon" />
+            <GiCheckMark className="service__list-icon" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </li>
         </ul>
@@ -46,27 +46,27 @@ const Services = () => (
         </div>
         <ul className="service__list">
           <li>
-            <BiCheck className="service__list-icon" />
+            <GiCheckMark className="service__list-icon" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </li>
           <li>
-            <BiCheck className="service__list-icon" />
+            <GiCheckMark className="service__list-icon" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </li>
           <li>
-            <BiCheck className="service__list-icon" />
+            <GiCheckMark className="service__list-icon" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </li>
           <li>
-            <BiCheck className="service__list-icon" />
+            <GiCheckMark className="service__list-icon" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </li>
           <li>
-            <BiCheck className="service__list-icon" />
+            <GiCheckMark className="service__list-icon" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </li>
           <li>
-            <BiCheck className="service__list-icon" />
+            <GiCheckMark className="service__list-icon" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </li>
         </ul>
@@ -79,27 +79,27 @@ const Services = () => (
         </div>
         <ul className="service__list">
           <li>
-            <BiCheck className="service__list-icon" />
+            <GiCheckMark className="service__list-icon" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </li>
           <li>
-            <BiCheck className="service__list-icon" />
+            <GiCheckMark className="service__list-icon" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </li>
           <li>
-            <BiCheck className="service__list-icon" />
+            <GiCheckMark className="service__list-icon" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </li>
           <li>
-            <BiCheck className="service__list-icon" />
+            <GiCheckMark className="service__list-icon" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </li>
           <li>
-            <BiCheck className="service__list-icon" />
+            <GiCheckMark className="service__list-icon" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </li>
           <li>
-            <BiCheck className="service__list-icon" />
+            <GiCheckMark className="service__list-icon" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           </li>
         </ul>
