@@ -16,8 +16,10 @@ const Portfolio = () => (
           <img src={IMG1} alt="" />
         </div>
         <h3>Prestine Cars</h3>
-        <a href="https://github.com/Prestine-Cars" className="btn" target="_blank" rel="noreferrer">Github</a>
-        <a href="https://prestine-carz.herokuapp.com/" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+        <div className="portfolio__item-cta">
+          <a href="https://github.com/Prestine-Cars" className="btn" target="_blank" rel="noreferrer">Github</a>
+          <a href="https://prestine-carz.herokuapp.com/" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+        </div>
       </article>
 
       <article className="portfolio__item">
@@ -25,8 +27,10 @@ const Portfolio = () => (
           <img src={IMG2} alt="" />
         </div>
         <h3>Food dishes</h3>
-        <a href="https://github.com/selma-belhadj/Food-dishes" className="btn" target="_blank" rel="noreferrer">Github</a>
-        <a href="https://foodzz.netlify.app/" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+        <div className="portfolio__item-cta">
+          <a href="https://github.com/selma-belhadj/Food-dishes" className="btn" target="_blank" rel="noreferrer">Github</a>
+          <a href="https://foodzz.netlify.app/" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+        </div>
       </article>
 
       <article className="portfolio__item">
@@ -34,8 +38,10 @@ const Portfolio = () => (
           <img src={IMG3} alt="" />
         </div>
         <h3>Math Magicians</h3>
-        <a href="https://github.com/selma-belhadj/math-magicians" className="btn" target="_blank" rel="noreferrer">Github</a>
-        <a href="https://selmab-math-magicians.netlify.app/" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+        <div className="portfolio__item-cta">
+          <a href="https://github.com/selma-belhadj/math-magicians" className="btn" target="_blank" rel="noreferrer">Github</a>
+          <a href="https://selmab-math-magicians.netlify.app/" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+        </div>
       </article>
 
       <article className="portfolio__item">
@@ -43,8 +49,10 @@ const Portfolio = () => (
           <img src={IMG4} alt="" />
         </div>
         <h3>BookStore</h3>
-        <a href="https://github.com/selma-belhadj/Bookstore" className="btn" target="_blank" rel="noreferrer">Github</a>
-        <a href="https://selmabelhadj-bookstore.netlify.app/" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+        <div className="portfolio__item-cta">
+          <a href="https://github.com/selma-belhadj/Bookstore" className="btn" target="_blank" rel="noreferrer">Github</a>
+          <a href="https://selmabelhadj-bookstore.netlify.app/" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+        </div>
       </article>
 
       <article className="portfolio__item">
@@ -52,8 +60,10 @@ const Portfolio = () => (
           <img src={IMG5} alt="" />
         </div>
         <h3>Cinema of Movies</h3>
-        <a href="https://github.com/Tobinchilongo/JavaScript_Capstone" className="btn" target="_blank" rel="noreferrer">Github</a>
-        <a href="https:github.com" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+        <div className="portfolio__item-cta">
+          <a href="https://github.com/Tobinchilongo/JavaScript_Capstone" className="btn" target="_blank" rel="noreferrer">Github</a>
+          <a href="https:github.com" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+        </div>
       </article>
 
       <article className="portfolio__item">
@@ -61,8 +71,10 @@ const Portfolio = () => (
           <img src={IMG5} alt="" />
         </div>
         <h3>This is a portfolio item title</h3>
-        <a href="https://github.com" className="btn" target="_blank" rel="noreferrer">Github</a>
-        <a href="https:github.com" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+        <div className="portfolio__item-cta">
+          <a href="https://github.com" className="btn" target="_blank" rel="noreferrer">Github</a>
+          <a href="https:github.com" className="btn btn-primary" target="_blank" rel="noreferrer">Live Demo</a>
+        </div>
       </article>
     </div>
 
