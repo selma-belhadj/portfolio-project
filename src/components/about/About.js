@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 import React from 'react';
 import { FaAward } from 'react-icons/fa';
 import { VscFolderLibrary } from 'react-icons/vsc';
@@ -31,13 +32,22 @@ const About = () => (
           <article className="about__card">
             <VscFolderLibrary className="about__icon" />
             <h5>Projects</h5>
-            <small>30+ Completed </small>
+            <small>20+ Completed </small>
           </article>
         </div>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Eveniet excepturi repudiandae atque debitis, quaerat ipsa sapiente, in eos illum,
-          recusandae voluptate facilis vitae suscipit voluptas! Dolore vel aliquam adipisci omnis!
+          I am a full-stack software developer and my life&apos;s ambition is to use software engineering to assist environmental organisations in changing the world one line of code at a time.
+
+          I received my Master&apos;s degree in computer science engineering from
+          {' '}
+          <a href="https://www.esi.dz/" target="_blank" rel="noreferrer">the Higher National Computer Science School</a>
+          {' '}
+          in Algeria. I am currently enrolled in
+          {' '}
+          <a href="https://www.microverse.org/" target="_blank" rel="noreferrer">Microverse&apos;s program</a>
+          , an online remote software school. Here we study web development in an online multicultural environment. We get experience in pair programming where we use the driver/navigator method, and we get to mentor junior developers.
+          My daily routine involves building projects, studying, reading articles and documentation, solving coding challenges, and networking.
+          I&apos;m in the top 20% of active GitHub users in my country, which is a modest boast but one I&apos;m quite proud of.
         </p>
 
         <a href="#contact" className="btn btn-primary">Let&apos;s Talk</a>
