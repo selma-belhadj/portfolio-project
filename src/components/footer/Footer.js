@@ -5,9 +5,9 @@ import { FaGithub, FaAngellist } from 'react-icons/fa';
 import { RiTwitterLine } from 'react-icons/ri';
 
 const Footer = () => (
-  <div>
+  <footer>
     <a href="#home" className="footer__logo">Selma</a>
-    <ul>
+    <ul className="permalinks">
       <li><a href="#home">Home</a></li>
       <li><a href="#about">About</a></li>
       <li><a href="#experience">Experience</a></li>
@@ -16,6 +16,7 @@ const Footer = () => (
       <li><a href="#testimonials">Testimonials</a></li>
       <li><a href="#contact">Contact</a></li>
     </ul>
+
     <div className="footer__socials">
       <a href="https://www.linkedin.com/in/selma-belhadj/" target="_blank" rel="noreferrer">
         <BsLinkedin />
@@ -35,7 +36,7 @@ const Footer = () => (
       <small>&copy; SELMA BELHADJ. All rights reserved.</small>
     </div>
 
-  </div>
+  </footer>
 );
 
 export default Footer;
