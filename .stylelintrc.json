@@ -14,7 +14,11 @@
           "ignoreAtRules": ["tailwind", "apply", "variants", "responsive", "screen"]
         }
       ],
-      "csstree/validator": true
+      "csstree/validator": {
+        "properties": {
+          "height": "| fit-content"
+        }
+      }
     },
     "ignoreFiles": ["build/**", "dist/**", "**/reset*.css", "**/bootstrap*.css", "**/*.js", "**/*.jsx"]
   }
