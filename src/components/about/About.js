@@ -36,18 +36,16 @@ const About = () => (
           </article>
         </div>
         <p>
-          I am a full-stack software developer and my life&apos;s ambition is to use software engineering to assist environmental organisations in changing the world one line of code at a time.
-
-          I received my Master&apos;s degree in computer science engineering from
+          Hello! My name is Selma, and I enjoy creating things that live on the Internet. I&apos;m a computer science engineer specializing in software development.
+          <br />
           {' '}
-          <a href="https://www.esi.dz/" target="_blank" rel="noreferrer">the Higher National Computer Science School</a>
-          {' '}
-          in Algeria. I am currently enrolled in
-          {' '}
-          <a href="https://www.microverse.org/" target="_blank" rel="noreferrer">Microverse&apos;s program</a>
-          , an online remote software school. Here we study web development in an online multicultural environment. We get experience in pair programming where we use the driver/navigator method, and we get to mentor junior developers.
           My daily routine involves building projects, studying, reading articles and documentation, solving coding challenges, and networking.
-          I&apos;m in the top 20% of active GitHub users in my country, which is a modest boast but one I&apos;m quite proud of.
+          <br />
+          {' '}
+          I don&apos;t like to define myself by the work I&apos;ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter.
+          <br />
+          {' '}
+          I am a passionate person who pursues her dreams, works hard, and is results-oriented. As a matter of fact, I constantly work on improving myself, seeking to achieve the best version of myself.
         </p>
 
         <a href="#contact" className="btn btn-primary">Let&apos;s Talk</a>
