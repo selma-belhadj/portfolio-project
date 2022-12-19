@@ -40,7 +40,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## 👤 **Author**
 
 - GitHub: [@selma-belhadj](https://github.com/selma-belhadj)
-- Twitter: [@Bel_Selma16](https://twitter.com/Bel_Selma16)
+- Twitter: [@selma_bel_hadj](https://twitter.com/selma_bel_hadj)
 - LinkedIn: [@selma-belhadj](https://www.linkedin.com/in/selma-belhadj/)
 
 
