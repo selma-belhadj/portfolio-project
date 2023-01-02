@@ -43,8 +43,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Twitter: [@selma_bel_hadj](https://twitter.com/selma_bel_hadj)
 - LinkedIn: [@selma-belhadj](https://www.linkedin.com/in/selma-belhadj/)
 
-
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
