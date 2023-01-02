@@ -1,7 +1,7 @@
-# portfolio-website
+# Portfolio-website
 
 ## Live Demo
-use [this link](https://selma-belhadj.github.io/) for live demo 
+use [this link](https://selma-belhadj-dz.netlify.app/) for live demo 
 
 
 ## Built With
@@ -49,10 +49,6 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/selma-belhadj/portfolio-project/issues).
 
-## Acknowledgment
-- Original design idea by [someone](https://www.example.com) 
-
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
@@ -60,4 +56,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-
