@@ -46,9 +46,9 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: 'Budget App',
+    title: 'Budget Mobile App',
     github: 'https://github.com/selma-belhadj/BudgetApp',
-    demo: 'https://afternoon-anchorage-61931.herokuapp.com/',
+    demo: 'https://cash-app-dz.onrender.com/',
   },
 ];
 
